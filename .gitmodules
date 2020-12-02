@@ -1,0 +1,3 @@
+[submodule "open_model_zoo"]
+	path = open_model_zoo
+	url = https://github.com/openvinotoolkit/open_model_zoo.git
